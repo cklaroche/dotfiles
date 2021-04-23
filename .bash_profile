@@ -1,4 +1,3 @@
-alias myserver="ssh root@69.30.197.130"
 
 # Setting PATH for Python 2.7
 # The orginal version is saved in .bash_profile.pysave
